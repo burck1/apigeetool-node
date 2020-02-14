@@ -1,6 +1,6 @@
 {
-  "name": "apigeetool",
-  "version": "0.14.2",
+  "name": "imo-apigeetool",
+  "version": "0.15.1",
   "description": "A CLI for Apigee Edge",
   "main": "lib/main.js",
   "bin": {
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigee/apigeetool-node.git"
+    "url": "https://github.com/burck1/apigeetool-node.git"
   }
 }
